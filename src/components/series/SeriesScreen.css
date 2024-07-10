@@ -1,0 +1,6 @@
+.card-grid{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    transition: all ease .2s;
+}

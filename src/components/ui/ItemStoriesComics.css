@@ -1,0 +1,27 @@
+
+.item-container{
+    color: #000000;
+    margin-top: 20px;
+    margin-left: 20px;
+    display:flex;
+    flex-direction:column;
+    width: 300px;
+    transition: all ease .2s; 
+}
+
+
+.item-image{
+    width: 300px;
+    box-shadow: 6px 8px 12px rgba(0, 0, 0, 0.25);
+    transition: all ease .2s;
+}
+
+.item-autors{ 
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.item-autor{
+    margin: 0px;
+    margin-left: 5px;
+}

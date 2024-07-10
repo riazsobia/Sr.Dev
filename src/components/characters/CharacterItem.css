@@ -1,0 +1,14 @@
+.item-button{
+    padding: 0px;
+    margin: 0px;
+    text-align: start;
+    border: 0px;
+    background-color: white;
+    transition: all ease .2s;
+}
+
+.item-button:hover{
+    color: rgb(0, 0, 0);
+    transition: all ease .2s;
+    text-shadow: 2px 4px 6px rgb(0, 0, 0);
+}
